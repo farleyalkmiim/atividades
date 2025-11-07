@@ -1,2 +1,2 @@
 # atividades
-Entrega dos exercicios da avaliaçao A2, da materia Técnicas de Desenvolvimento de Algoritmo.
+Entrega dos exercicios da avaliacao A2, da materia Tecnicas de Desenvolvimento de Algoritmo.
